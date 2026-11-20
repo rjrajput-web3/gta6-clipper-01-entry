@@ -1,0 +1,21 @@
+VIDEO TITLE (paste as the YouTube title):
+GTA 6 Is INSANE - Watch This! #GTA6 #Shorts
+
+VIDEO DESCRIPTION (paste as the YouTube description, word for word):
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-barge-keel-jacket
+
+The wildest 33 seconds of GTA 6 Trailer 2 - a plane heist, Vice City nights and Jason's roof jump. GTA VI arrives May 26, 2026.
+
+#GTA6 #GrandTheftAutoVI #ViceCity #RockstarGames #Shorts
+
+---
+Notes for the uploader:
+- Upload the file gta6-clip-short.mp4 as a public Short (not unlisted, not private).
+- The first line of the description above must stay word for word - the bounty
+  checks it for "$500 bounty" and the make.fun link. The play code line must
+  stay too (or put the code in the channel description instead).
+- Keep the video public until the results are out (after the Nov 23 deadline).
+- After publishing, copy the video's Share address and put it in VIDEO.json
+  in the repo, commit, and then the entry can be submitted to make.fun.
